@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WaterPull">
+    <output-path>$PROJECT_DIR$/out/artifacts/WaterPull</output-path>
+    <root id="archive" name="WaterPull.jar">
+      <element id="module-output" name="WaterPull" />
+    </root>
+  </artifact>
+</component>
